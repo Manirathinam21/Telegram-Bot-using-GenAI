@@ -30,3 +30,17 @@ conda activate telebot python
 ```bash
 pip install -r requirements.txt
 ```
+
+### AIogram docs
+https://docs.aiogram.dev/en/latest/
+
+## Telegram Setup:
+
+1. search for BotFather
+2. /newbot
+    - GenAi007
+    - GenAi007_bot
+
+    * Now click on the link to access the bot 
+    * Make Sure you collect the access token
+
