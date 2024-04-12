@@ -44,3 +44,12 @@ https://docs.aiogram.dev/en/latest/
     * Now click on the link to access the bot 
     * Make Sure you collect the access token
 
+### Add in .env
+```ini
+OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```
+
+### Drive link for other integrations like whatsapp
+[whatsapp chatbot material link](https://drive.google.com/drive/folders/1ykNtGmViZTYGvafDaIiWprngdO5uinNw)
+
